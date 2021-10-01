@@ -25,6 +25,11 @@ https://www.python.org/downloads/
 # Official Python Website
 https://www.python.org/
 
+# Python Brochure
+https://brochure.getpython.info/
+
+Vol.1: https://brochure.getpython.info/media/releases/prerelases/psf-python-brochure-vol-1-final-content-preview
+
 # Python Beginner's Guide
 https://wiki.python.org/moin/BeginnersGuide
 
