@@ -1,0 +1,35 @@
+# Python Programming Language
+Python is an open source, object-oriented, high-level programming language developed by Guido van Rossum in 1991 at the National Research Institute for Mathematics and Computer Science, Netherlands.
+It is presently owned by Python Software Foundation (PSF).
+Python is based on the ABC language, a teaching language created to replace the programming language BASIC, which was developed earlier.
+Python is general-purpose programming language that can be used effectively to build any kind of program that does not require direct access to the computer hardware.
+
+# Features of Python
+1. Easy
+2. Expressive
+3. Free and Open Source
+4. High-Level
+5. Portable
+6. Object-Oriented
+7. Extensible
+8. Embeddable
+9. Interpreted
+10. Large Standard Library
+11. GUI Programming
+12. Dynamically Typed
+
+# Installing Python
+To install Python, we must first download the installation package of the rewuired version from the URL given below.
+https://www.python.org/downloads/
+
+# Official Python Website
+https://www.python.org/
+
+# Python Beginner's Guide
+https://wiki.python.org/moin/BeginnersGuide
+
+# Python Developer's Guide
+https://devguide.python.org/
+
+# Python Books
+https://wiki.python.org/moin/PythonBooks
